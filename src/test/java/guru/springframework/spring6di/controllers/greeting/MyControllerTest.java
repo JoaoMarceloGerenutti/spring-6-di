@@ -1,5 +1,6 @@
-package guru.springframework.spring6di.controllers;
+package guru.springframework.spring6di.controllers.greeting;
 
+import guru.springframework.spring6di.controllers.greeting.MyController;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

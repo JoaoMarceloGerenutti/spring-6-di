@@ -1,4 +1,4 @@
-package guru.springframework.spring6di.services.impl;
+package guru.springframework.spring6di.services.impl.greeting;
 
 import guru.springframework.spring6di.services.GreetingService;
 import org.springframework.context.annotation.Primary;
